@@ -1,0 +1,4 @@
+C:\Users\Bristi Gayali\source\repos\labtask(account class)\labtask(account class)\obj\Debug\netcoreapp3.1\labtask(account class).csprojAssemblyReference.cache
+C:\Users\Bristi Gayali\source\repos\labtask(account class)\labtask(account class)\obj\Debug\netcoreapp3.1\labtask(account class).AssemblyInfoInputs.cache
+C:\Users\Bristi Gayali\source\repos\labtask(account class)\labtask(account class)\obj\Debug\netcoreapp3.1\labtask(account class).AssemblyInfo.cs
+C:\Users\Bristi Gayali\source\repos\labtask(account class)\labtask(account class)\obj\Debug\netcoreapp3.1\labtask(account class).csproj.CoreCompileInputs.cache
